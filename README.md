@@ -2,7 +2,7 @@
 
 Teknik Informatika Student at Institut Teknologi Sepuluh Nopember (ITS), Surabaya 🇮🇩
 
-[Email](Raffyadika43@gmail.com) / [LinkedIn](https://linkedin.com/in/muhammad-raffyadika-03a825347) / [GitHub](https://github.com/Raffyadika)
+[Email](mailto:Raffyadika43@gmail.com) / [LinkedIn](https://linkedin.com/in/muhammad-raffyadika-03a825347) / [GitHub](https://github.com/Raffyadika)
 
 ## Tentang Saya
 
