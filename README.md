@@ -43,8 +43,6 @@ Proyek kolaborasi dengan teman DKV, menggabungkan programming (saya) dengan VFX 
 **S1 Teknik Informatika** _(2025 – sekarang)_
 Institut Teknologi Sepuluh Nopember (ITS), Surabaya
 
-Mata kuliah relevan: Sistem Operasi, Struktur Data, Systems Programming, Sistem Informasi, Computer Networks, AI Concepts, Software Development Principles, Discrete Mathematics, Object-Oriented Programming, Web Programming, Graph Theory.
-
 ## Bahasa
 
 🇮🇩 **Bahasa Indonesia** - Native  
